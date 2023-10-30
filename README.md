@@ -1,0 +1,1 @@
+# asterlinux-lightdm-settings
